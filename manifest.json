@@ -1,6 +1,6 @@
 {
     "name":"Chegg Meter",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "description":"This extension allows users to track the number of questions they have completed.",
     "manifest_version":3,
     "author":"sravan potnuru",
